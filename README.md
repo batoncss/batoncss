@@ -1,4 +1,4 @@
-![Header](https://github.com/batoncss/batoncss/blob/main/assets/1647509017_7-kartinkin-net-p-baton-kartinki-7.png)
+![Header](https://github.com/batoncss/batoncss/blob/main/assets/kartinki-pshenichnoe-pole-19.jpg)
 
 ## My name is Dmitriy, but everyone calls me Baton(baguette)
 
