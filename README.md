@@ -2,7 +2,6 @@
 
 ## My name is Dmitriy, but everyone calls me Baton🍞
 
-#### I'm school teacher👨‍🏫 and python developer
 #### I enjoy coding in python🐍 and I like memes about cats🐈‍
 
 ### Languages and tools
